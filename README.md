@@ -24,7 +24,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 • Visit Autopsy Official Website and download the latest version.
 
 • Double-click the downloaded file and follow the on-screen instructions.
-![image](https://github.com/user-attachments/assets/bda3bdb7-d438-44f2-9547-7ef0d2de18ce)
+![image](./Screenshot%202025-04-21%20161007.png)
 
 ## **Implementation steps:**
 
